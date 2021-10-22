@@ -1,3 +1,3 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-# Rohmah-Nutri-Astuti
-Administration, Teacher
+<p align="center"><a href="https://RohmahNutriAstuti.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
